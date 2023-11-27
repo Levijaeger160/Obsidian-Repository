@@ -1,2 +1,2 @@
 # Obsidian-Repository
-Save Obsidian file
+Save personal Obsidian file
